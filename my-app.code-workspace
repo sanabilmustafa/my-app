@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "my-app",
+			"path": "."
+		},
+		{
+			"path": "../../template-nextjs/my-app/.git"
+		}
+	],
+	"settings": {}
+}
